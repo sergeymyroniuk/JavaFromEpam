@@ -2,6 +2,9 @@ package me.sergeymyroniuk.introductionTasksB;
 
 import java.util.Scanner;
 
+// Ввести с консоли n целых чисел. На консоль вывести: все трехзначные числа, в десятичной записи
+// которых нет одинаковых цифр.
+
 public class Task5 {
     public static void main(String[] args) {
         System.out.print("Сколько целых чисел вы собираетесь ввести? ");
