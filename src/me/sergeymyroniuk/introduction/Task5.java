@@ -9,9 +9,7 @@ public class Task5 {
         Scanner input = new Scanner(System.in);
         for (int i = 0; true; i++) {
             int x = input.nextInt();
-            int y
-                    = input.nextInt();
-
+            int y = input.nextInt();
             System.out.println("Sum= " + (x + y));
             System.out.println("Mutli= " + (x * y));
         }
