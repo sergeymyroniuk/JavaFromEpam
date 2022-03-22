@@ -2,6 +2,8 @@ package me.sergeymyroniuk.introductionTasksB;
 
 import java.util.Scanner;
 
+// Ввести с консоли n целых чисел. На консоль вывести: «Счастливые» числа.
+
 public class Task9 {
     public static void main(String[] args) {
         System.out.print("Сколько целых чисел вы собираетесь ввести? ");
